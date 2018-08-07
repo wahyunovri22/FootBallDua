@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navigation" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="add_to_favorite" type="id" />
+    <item name="navigation_dashboard" type="id" />
+    <item name="navigation_favorite" type="id"/>
+    <item name="rv" type="id"/>
+</resources>
